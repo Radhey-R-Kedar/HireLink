@@ -55,7 +55,7 @@ The project addresses the inefficiencies of traditional hiring processes by leve
 ### Next.js Website
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ShantanuR03/nextjs-website.git
+   git clone https://github.com/Radhey-R-Kedar/HireLink.git
 
 2. Install dependencies:
    ```bash
@@ -197,5 +197,6 @@ We welcome contributions from the community! If you have any ideas for improveme
 
 ## License
 hirelink © 2024 Team Dracarys. Licensed under the [License Type]. See LICENSE for more information.
-#   H i r e L i n k  
+#   H i r e L i n k 
+ 
  
